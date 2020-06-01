@@ -22,9 +22,7 @@
 
 ## 二、创建 第一个Android 项目
 
-1.参见官方文档
-
-[https://developer.android.google.cn/training/basics/firstapp/creating-project]
+1.参见[官方文档](https://developer.android.google.cn/training/basics/firstapp/creating-project)
 
 ![IMG_256](media/f4da1ea3dc9fd5632b405bfba817a46d.png)
 
