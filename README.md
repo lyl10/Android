@@ -1,4 +1,4 @@
-1.实验一:创建第一个Android工程 MyFirstApp[]
+1.实验一:创建第一个Android工程 MyFirstApp[https://github.com/lyl10/Android/blob/master/MyFirstApp/READMR1.md]
 
 2.实验二:Android界面布局  []
 
