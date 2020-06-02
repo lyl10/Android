@@ -6,4 +6,4 @@
 
 4.实验四:[Intent]()
 
-5.期中实验:[NotePad]()
+5.期中实验:[NotePad](https://github.com/lyl10/Android/blob/master/_NotePad/README2.md)
